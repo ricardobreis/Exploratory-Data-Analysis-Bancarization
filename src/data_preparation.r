@@ -36,8 +36,9 @@ agencias <- read.csv("~/R-Projetos/Exploratory-Data-Analysis-Bancarization/data/
 View(agencias)
 glimpse(agencias)
 
-# Dados Espaciais ---------------------------------------------------------
-mun <- st_read("~/R-Projetos/Exploratory-Data-Analysis-Bancarization/data/raw/DEINFO_DISTRITO.shp")
+
+# Leitura de Dados Espaciais ----------------------------------------------
+mun <- st_read("~/R-Projetos/Exploratory-Data-Analysis-Bancarization/data/raw/municipio_sp.shp")
 plot(mun) # Plota todas as colunas
 plot(st_geometry(mun)) # Plota apenas a geometria
 head(mun)
