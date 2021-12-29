@@ -37,6 +37,11 @@ View(agencias)
 glimpse(agencias)
 
 
+# Tidying  ----------------------------------------------------------------
+agencias_sp <- agencias %>%
+  filter(UF == "SP" & Municipio == "SAO PAULO")
+
+
 # Leitura de Dados Espaciais ----------------------------------------------
 mun <- st_read("~/R-Projetos/Exploratory-Data-Analysis-Bancarization/data/raw/municipio_sp.shp")
 plot(mun) # Plota todas as colunas
