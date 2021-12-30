@@ -1,6 +1,6 @@
 # Objetivos
 ## Objetivo Geral
-Entender a influência da distância no nível de bancarização dos distritos do município de São Paulo.
+Entender a influência da distância das agências bancárias no nível de bancarização da população dos distritos do município de São Paulo.
 
 ## Objetivos Específicos
 1. Aquisição de dados (agências, endereços, shapefile do município de São Paulo)
