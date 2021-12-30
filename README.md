@@ -16,3 +16,4 @@ Entender a influência da distância das agências bancárias no nível de banca
 - Shapefile do município de São Paulo: http://dados.prefeitura.sp.gov.br/dataset/distritos
 - Base de Endereços do município de São Paulo: http://dados.prefeitura.sp.gov.br/dataset/cadastro-nacional-de-enderecos-para-fins-estatisticos-censo-2010
 - Base de agências bancárias do Brasil: https://dadosabertos.bcb.gov.br/dataset/agencias
+- Notícia: https://exame.com/negocios/por-que-o-brasil-vive-uma-corrida-pelos-sem-banco/
