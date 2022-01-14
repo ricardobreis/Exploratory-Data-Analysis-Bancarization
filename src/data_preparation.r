@@ -41,6 +41,8 @@ glimpse(agencias)
 agencias_sp <- agencias %>%
   filter(UF == "SP" & Municipio == "SAO PAULO")
 
+write.csv(agencias_sp,"~/R-Projetos/Exploratory-Data-Analysis-Bancarization/data/processed/agencias_sp.csv", row.names = FALSE)
+
 
 # Leitura de Dados Espaciais ----------------------------------------------
 mun <- st_read("~/R-Projetos/Exploratory-Data-Analysis-Bancarization/data/raw/municipio_sp.shp")
