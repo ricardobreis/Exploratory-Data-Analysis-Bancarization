@@ -15,7 +15,7 @@
 - Resultado: [Etapa 3](https://github.com/ricardobreis/Exploratory-Data-Analysis-Bancarization/blob/master/presentation/simulacao-buffer.pdf)
 - Post no LinkedIn: [LinkedIn Post](https://www.linkedin.com/posts/ricardobreis_buffer-analysis-activity-6932446627647361024-J5Xb?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
-## Etapa 4 - Buffer Analysis
+## Etapa 4 - Indicador de Presença Bancária
 
 - Resultado: [Etapa 4](https://github.com/ricardobreis/Exploratory-Data-Analysis-Bancarization/blob/master/presentation/indicador-presenca-bancaria.pdf)
-- Post no LinkedIn: [LinkedIn Post]()
+- Post no LinkedIn: [LinkedIn Post](https://github.com/ricardobreis/Exploratory-Data-Analysis-Bancarization/blob/master/presentation/indicador-presenca-bancaria.pdf)
