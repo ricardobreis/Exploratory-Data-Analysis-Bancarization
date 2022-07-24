@@ -18,4 +18,4 @@
 ## Etapa 4 - Indicador de Presença Bancária
 
 - Resultado: [Etapa 4](https://github.com/ricardobreis/Exploratory-Data-Analysis-Bancarization/blob/master/presentation/indicador-presenca-bancaria.pdf)
-- Post no LinkedIn: [LinkedIn Post](https://github.com/ricardobreis/Exploratory-Data-Analysis-Bancarization/blob/master/presentation/indicador-presenca-bancaria.pdf)
+- Post no LinkedIn: [LinkedIn Post](https://www.linkedin.com/posts/ricardobreis_indicador-de-presen%C3%A7a-banc%C3%A1ria-activity-6957101252694421504-w1cc?utm_source=linkedin_share&utm_medium=member_desktop_web)
